@@ -1,0 +1,128 @@
+p {
+    font-size: 3em;
+    color: white;
+}
+
+h2 {
+    font-size: 5em;
+    color: white;
+}
+
+body {
+    background: #000;
+}
+
+ul,
+ol,
+li,
+dl,
+dt,
+dd,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+hgroup,
+p,
+blockquote,
+figure,
+form,
+fieldset,
+input,
+legend,
+pre,
+abbr,
+button {
+    margin: 0;
+    padding: 0;
+    font-family: 'SourceHanSerifSC_Medium';
+}
+
+div {
+    display: block;
+}
+
+figure {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 40px;
+    margin-inline-end: 40px;
+    box-sizing: border-box;
+}
+
+.image_0 {
+    position: sticky;
+    position: -webkit-sticky;
+    height: 100vh;
+    width: auto;
+    background-repeat: no-repeat;
+    background-image: url(https://i.loli.net/2019/02/04/5c585afa6a150.jpg);
+    background-size: cover;
+    background-position: center center;
+    top: 0px;
+    margin: 0;
+    padding: 0;
+}
+
+.content-text0 {
+    align-items: center;
+    /* display: flex; */
+    position: relative;
+    padding-top: 160px;
+    padding-bottom: 350px;
+}
+
+.image_1 {
+    position: sticky;
+    position: -webkit-sticky;
+    height: 100vh;
+    width: auto;
+    background-repeat: no-repeat;
+    background-image: url(https://i.loli.net/2019/02/04/5c585af6e2ea4.jpg);
+    background-size: cover;
+    background-position: center center;
+    top: 0px;
+    margin: 0;
+    padding: 0;
+}
+
+.content-text1 {
+    align-items: center;
+    /* display: flex; */
+    position: relative;
+    padding-top: 160px;
+    padding-bottom: 300px;
+}
+
+.image_2 {
+    position: sticky;
+    position: -webkit-sticky;
+    height: 100vh;
+    width: auto;
+    background-repeat: no-repeat;
+    background-image: url(https://i.loli.net/2019/02/04/5c585af9ef7fe.jpg);
+    background-size: cover;
+    background-position: center center;
+    top: 0px;
+    margin: 0;
+    padding: 0;
+}
+
+.content-text2 {
+    align-items: center;
+    /* display: flex; */
+    position: relative;
+    padding-top: 160px;
+    padding-bottom: 400px;
+}
+
+.large-12 {
+    width: 100%;
+}
+
+.inline {
+    display: inline;
+}
